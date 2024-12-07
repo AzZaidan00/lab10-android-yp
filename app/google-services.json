@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1021339597872",
+    "project_id": "lab10-2-4013c",
+    "storage_bucket": "lab10-2-4013c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021339597872:android:67986a6bae2152692ac1f5",
+        "android_client_info": {
+          "package_name": "com.azim.lab10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6HoQbMXfn-Q-Z5QieeQ48SQAvGktMUls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
